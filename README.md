@@ -16,7 +16,6 @@ I offer **end-to-end web solutions**, ensuring a seamless blend of **design, fun
 - 🌐 Web Development & Design  
 - ⚡ SEO Optimization  
 - 🎨 WordPress & Front-End Development  
-- 🖥️ .NET & C# Development  
 - 🔗 API Development  
 - 📊 Business Analytics (R Studio)  
 - 🔍 Software Testing & User Experience Design  
