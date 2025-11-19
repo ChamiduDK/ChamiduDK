@@ -11,7 +11,7 @@ With a solid academic foundation and certifications in **Server-side Web Program
 - **Business Analytics & Data Science:** R Studio for Business Analysis  
 - **Other Skills:** UX/UI Design, SEO Optimization, Software Testing  
 
-## 💼 Services at VisualVibe Studio (Self-employed) 
+## 💼 Services  
 I offer **end-to-end web solutions**, ensuring a seamless blend of **design, functionality, and performance**. My expertise includes:  
 - 🌐 Web Development & Design  
 - ⚡ SEO Optimization  
