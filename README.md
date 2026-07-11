@@ -8,27 +8,27 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Kandy,_Sri_Lanka-1B3A5C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_First_Class_Honours-Cardiff_Met-1B3A5C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Available_for-Freelance_%26_Full--Time-1B3A5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Kandy,_Sri_Lanka-1B3A5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/First_Class_Honours-Cardiff_Met-1B3A5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available_for-Freelance_%26_Full--Time-1B3A5C?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-- 🚀 Full-Stack Developer & AI Engineer building high-fidelity platforms that bridge complex engineering with intuitive design
-- 🎓 First Class Honours **BSc (Hons) Software Engineering** — Cardiff Metropolitan University (via ICBT Campus)
-- 💻 Currently building **Hardware ERP & POS**, **Tradeview Dashboard**, and **Trade 1 Plus** — a full trading, education & community ecosystem
-- 🤖 Deep into applied AI: Google Gemini integrations, ML pipelines (LightGBM/CatBoost/PyTorch), and AI-powered Telegram bots
-- 🌐 Freelancing at **[chamidu.web.lk](https://chamidu.web.lk)** — full-stack platforms for transportation, community, commerce & professional services clients
-- 📈 SEO-first architecture on every build: Schema.org markup, sitemaps, canonical tags, location-based content strategy
-- 📫 Reach me at **st20288818@outlook.cardiffmet.ac.uk**
+- Full-Stack Developer and AI Engineer building high-fidelity platforms that bridge complex engineering with intuitive design
+- First Class Honours BSc (Hons) Software Engineering - Cardiff Metropolitan University (via ICBT Campus)
+- Currently building Hardware ERP & POS, Tradeview Dashboard, and Trade 1 Plus - a full trading, education and community ecosystem
+- Deep into applied AI: Google Gemini integrations, ML pipelines (LightGBM/CatBoost/PyTorch), and AI-powered Telegram bots
+- Freelancing at [chamidu.web.lk](https://chamidu.web.lk) - full-stack platforms for transportation, community, commerce and professional services clients
+- SEO-first architecture on every build: Schema.org markup, sitemaps, canonical tags, location-based content strategy
+- Reach me at st20288818@outlook.cardiffmet.ac.uk
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,8 +46,10 @@
 
 **AI / Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 
 **DevOps & Tools**
 <br/>
@@ -58,38 +60,38 @@
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/MetaTrader_5-1B3A5C?style=for-the-badge&logo=metatrader&logoColor=white" />
+<img src="https://img.shields.io/badge/MetaTrader_5-1B3A5C?style=for-the-badge" />
 
 **GIS & Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=r" />
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 🚧 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏗️ **Hardware ERP System & POS** | Core inventory API, multi-location stock, POS transactions | `Next.js` `Prisma` `PostgreSQL` |
-| 📊 **Tradeview Dashboard** | Real-time trading dashboard with Telegram signal automation | `Supabase` `Edge Functions` `Telegram API` |
-| 💹 **Trade 1 Plus** | Full trading, education & community ecosystem, MT5 sync, mobile apps | `React` `Supabase` `MetaTrader 5` `Capacitor` |
-| 🤖 **Trade 1 Plus Chat Bot** | AI Telegram assistant with custom knowledge base & lead handoff | `Node.js` `Gemini AI` `Supabase` |
-| 🎓 **LoanFlow** | AI-assisted SME loan decision support — BSc dissertation | `React` `Node.js` `Supabase` |
-| 🌾 **CSIRO Biomass Prediction** | Pasture biomass prediction from field images via SigLIP + ML ensemble | `PyTorch` `SigLIP` `LightGBM` |
-| 📦 **SANITIBOX Elevate** | Subscription commerce platform with Stripe billing | `React` `Supabase` `Stripe` |
-| 👥 **Nation Guard HR Hub** | HR & payroll platform with EPF/ETF logic | `React` `Supabase` `PostgreSQL` |
+| Hardware ERP System & POS | Core inventory API, multi-location stock, POS transactions | `Next.js` `Prisma` `PostgreSQL` |
+| Tradeview Dashboard | Real-time trading dashboard with Telegram signal automation | `Supabase` `Edge Functions` `Telegram API` |
+| Trade 1 Plus | Full trading, education and community ecosystem, MT5 sync, mobile apps | `React` `Supabase` `MetaTrader 5` `Capacitor` |
+| Trade 1 Plus Chat Bot | AI Telegram assistant with custom knowledge base and lead handoff | `Node.js` `Gemini AI` `Supabase` |
+| LoanFlow | AI-assisted SME loan decision support - BSc dissertation | `React` `Node.js` `Supabase` |
+| CSIRO Biomass Prediction | Pasture biomass prediction from field images via SigLIP + ML ensemble | `PyTorch` `SigLIP` `LightGBM` |
+| SANITIBOX Elevate | Subscription commerce platform with Stripe billing | `React` `Supabase` `Stripe` |
+| Nation Guard HR Hub | HR and payroll platform with EPF/ETF logic | `React` `Supabase` `PostgreSQL` |
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +100,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&background=FFFFFF&ring=1B3A5C&fire=2E6FA7&currStreakLabel=1B3A5C&border=1B3A5C" />
+<img src="https://streak-stats.demolab.com/?user=ChamiduDK&theme=default&background=FFFFFF&ring=1B3A5C&fire=2E6FA7&currStreakLabel=1B3A5C&border=1B3A5C" />
 
 <br/>
 
@@ -106,11 +108,11 @@
 
 </div>
 
-> ⚠️ Replace `ChamiduDK` above with your actual GitHub username to activate these stat cards.
+> Replace YOUR_GITHUB_USERNAME above with your actual GitHub username to activate these stat cards - they only render for a real, public username.
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -136,7 +138,7 @@
 
 <div align="center">
 
-### 💭 "I care about the *why* as much as the *how* — every line of code should translate into business value."
+### "I care about the why as much as the how - every line of code should translate into business value."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6FA7,100:1B3A5C&height=100&section=footer" width="100%"/>
 
