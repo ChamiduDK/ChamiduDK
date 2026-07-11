@@ -24,7 +24,7 @@
 - Deep into applied AI: Google Gemini integrations, ML pipelines (LightGBM/CatBoost/PyTorch), and AI-powered Telegram bots
 - Freelancing at [chamidu.web.lk](https://chamidu.web.lk) - full-stack platforms for transportation, community, commerce and professional services clients
 - SEO-first architecture on every build: Schema.org markup, sitemaps, canonical tags, location-based content strategy
-- Reach me at st20288818@outlook.cardiffmet.ac.uk
+- Reach me at chamidudhilshan@gmail.com
 
 <br/>
 
