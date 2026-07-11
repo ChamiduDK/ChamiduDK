@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,100:2E6FA7&height=220&section=header&text=Chamidu%20Kodithuwakkuarachchi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1B3A5C&center=true&vCenter=true&width=650&lines=Building+production-ready+systems+from+Sri+Lanka;Full-Stack+Web+%2B+AI%2FML+Engineer;React+%C2%B7+Node.js+%C2%B7+.NET+%C2%B7+Python;First+Class+Honours+BSc+(Hons)+Software+Engineering" alt="Typing SVG" />
 </a>
@@ -88,27 +86,6 @@
 | Nation Guard HR Hub | HR and payroll platform with EPF/ETF logic | `React` `Supabase` `PostgreSQL` |
 
 </div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=1B3A5C&icon_color=2E6FA7&text_color=333333&border_color=1B3A5C&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&title_color=1B3A5C&text_color=333333&border_color=1B3A5C&hide_border=false" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ChamiduDK&theme=default&background=FFFFFF&ring=1B3A5C&fire=2E6FA7&currStreakLabel=1B3A5C&border=1B3A5C" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&color=1B3A5C&line=2E6FA7&point=1B3A5C&area=true&hide_border=false" width="95%"/>
-
-</div>
-
-> Replace YOUR_GITHUB_USERNAME above with your actual GitHub username to activate these stat cards - they only render for a real, public username.
 
 <br/>
 
